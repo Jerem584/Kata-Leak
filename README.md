@@ -46,10 +46,10 @@ Well, now we know how the authentication is managed, just need to grab our own h
 
 I personally recreated a pastebin, to bypass (if the program have any) integrity check from pastebin.
 
-Then, I hooked WinHttpGetProxyForUrl to modify the memory from arg a2 (aka lpcwstr) so it would change the url and redirect to my pastebin.
+Then, I hooked WinHttpGetProxyForUrl to modify the memory from arg a2 (aka lpcwstr) so it would change the url and redirect to my pastebin.<br>
 <img src=https://cdn.discordapp.com/attachments/817098500122214440/839063491293741076/unknown.png>
 
-and then boom 
+and then boom <br>
 <img src=https://cdn.discordapp.com/attachments/817098500122214440/839063780351672340/unknown.png> 
 
 <!-- USAGE EXAMPLES -->
