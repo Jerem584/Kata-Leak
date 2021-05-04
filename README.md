@@ -52,6 +52,9 @@ Then, I hooked WinHttpGetProxyForUrl to modify the memory from arg a2 (aka lpcws
 and then boom <br>
 <img src=https://cdn.discordapp.com/attachments/817098500122214440/839063780351672340/unknown.png> 
 
+<br>
+I Almost forgot, but you need to launch the .exe with the argument --restart lmao
+
 <!-- USAGE EXAMPLES -->
 ## usage
 
